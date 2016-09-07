@@ -1,0 +1,6 @@
+framework module Pods_exploreCharts {
+  umbrella header "Pods-exploreCharts-umbrella.h"
+
+  export *
+  module * { export * }
+}
